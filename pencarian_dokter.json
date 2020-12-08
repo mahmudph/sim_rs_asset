@@ -1,0 +1,21 @@
+{
+  "title" : "petunjuk pencarian dokter",
+  "tahapan" :[
+    {
+      "tahap" : 1,
+      "subtitle": "Veniam Lorem sit tempor Lorem consequat incididunt amet excepteur non occaecat exercitation est. Fugiat nostrud proident sint reprehenderit do do. Nulla officia sit laborum aliqua cupidatat excepteur labore aliqua et enim sunt laborum consequat.Ad fugiat incididunt anim sint ad incididunt minim. Anim sit pariatur sit ea pariatur laboris et Lorem sint eu adipisicing. Duis nulla non sunt occaecat commodo duis consequat dolore. Quis ipsum aliqua do reprehenderit. Anim qui cupidatat amet exercitation ex amet sint commodo cillum commodo occaecat qui. Duis eiusmod laborum Lorem amet ea aliquip.",
+      "image": "https://contoh.com/gambar.png"
+    },
+    {
+      "tahap" : 2,
+      "subtitle": "Veniam Lorem sit tempor Lorem consequat incididunt amet excepteur non occaecat exercitation est. Fugiat nostrud proident sint reprehenderit do do. Nulla officia sit laborum aliqua cupidatat excepteur labore aliqua et enim sunt laborum consequat.Ad fugiat incididunt anim sint ad incididunt minim. Anim sit pariatur sit ea pariatur laboris et Lorem sint eu adipisicing. Duis nulla non sunt occaecat commodo duis consequat dolore. Quis ipsum aliqua do reprehenderit. Anim qui cupidatat amet exercitation ex amet sint commodo cillum commodo occaecat qui. Duis eiusmod laborum Lorem amet ea aliquip.",
+      "image": "https://contoh.com/gambar.png"
+    },
+    {
+      "tahap" : 3,
+      "subtitle": "Veniam Lorem sit tempor Lorem consequat incididunt amet excepteur non occaecat exercitation est. Fugiat nostrud proident sint reprehenderit do do. Nulla officia sit laborum aliqua cupidatat excepteur labore aliqua et enim sunt laborum consequat.Ad fugiat incididunt anim sint ad incididunt minim. Anim sit pariatur sit ea pariatur laboris et Lorem sint eu adipisicing. Duis nulla non sunt occaecat commodo duis consequat dolore. Quis ipsum aliqua do reprehenderit. Anim qui cupidatat amet exercitation ex amet sint commodo cillum commodo occaecat qui. Duis eiusmod laborum Lorem amet ea aliquip.",
+      "image": "https://contoh.com/gambar.png"
+    },
+    
+  ]
+}
